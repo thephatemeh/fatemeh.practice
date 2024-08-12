@@ -1,0 +1,19 @@
+.box {
+  background-image: linear-gradient(rgb(0, 242, 246),black);
+  color: white;
+  margin: 20px;
+  padding: 50px;
+}
+.imagebox {
+  background-image: url(image/Tree.jpg);
+  color: white;
+  margin: 20px;
+  padding: 50px;
+}
+.colorbox {
+  color: aliceblue;
+  background-color: black;
+  margin: 20px;
+  padding: 70px;
+  text-align: center;
+}
