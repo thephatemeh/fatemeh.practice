@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+p.one{
+  text-align: center;
+  color: white;
+  background-color: teal;
+  border-color: aliceblue;
+  border-style: solid;
+  border-width: 4px;
+  padding: 60px;
+}
+p.two{
+  text-align: center;
+  color: white;
+  background-color: rgb(0, 0, 0);
+  border-color: aliceblue;
+  border-style: dotted;
+  border-width: 7px;
+  border-color: rgb(4, 111, 111);
+  padding: 60px;
+}
+p.three{
+  text-align: center;
+  color: white;
+  background-color: #7700ff;
+  border-color: aliceblue;
+  border-style: double;
+  border-width: 7px;
+  border-color: white;
+  padding: 60px;
+}
+p.four{
+  text-align: center;
+  color: black;
+  background-color: hsl(271, 29%, 71%);
+  padding: 60px;
+}
