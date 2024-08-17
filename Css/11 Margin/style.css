@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+div{
+  border: 1px solid white;
+  width: 400px;
+  height: 230px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 100px;
+  margin-left: 550px;
+  background-image: linear-gradient(rgb(116, 108, 108),rgb(251, 125, 224));
+}
+h1{
+  text-align: center;
+  color: aliceblue;
+}
+p{
+  text-align: center;
+}
+body.background{
+  background-image:linear-gradient( to right,rgb(40, 228, 228),rgb(144, 140, 140));
+}
