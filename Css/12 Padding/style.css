@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+div {
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 12px;
+  width: 400px;
+  height: 230px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 100px;
+  margin-left: 550px;
+  padding: 40px 10px;
+  background-image: url(Image/Background-2.jpg);
+  background-size: cover;
+}
+#grad{
+    height: 690px;
+    background-image: linear-gradient(to top,rgb(10, 192, 192),darkblue);
+}
+h1{
+  color: aliceblue;
+  text-align: center;
+  margin: 100px auto;
+}
