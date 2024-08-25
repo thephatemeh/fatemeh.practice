@@ -1,0 +1,52 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+div.background{
+  background: url(Image/Background.jpg);
+  background-size: cover;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+h1{
+  font-family: monospace;
+  color: white;
+  font-size: 72px;
+  cursor: pointer;
+  margin: 100px auto;
+  margin-bottom: 450px;
+}
+p{
+  width: 130px;
+  height: 30px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 100px;
+  margin-left: 550px;
+  cursor: pointer;
+  margin: 280px auto;
+  margin-bottom: 200px;
+  text-align: center;
+  position: absolute;
+  font-size: 30px;
+}
+div.box{
+  border: 3px solid white;
+  width: 200px;
+  height: 30px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 100px;
+  margin-left: 550px;
+  cursor: pointer;
+  margin: 500px auto;
+  margin-bottom: 100px;
+  background-image: linear-gradient(rgb(255, 77, 0),yellow);
+  text-align: center;
+  position: absolute;
+  font-size: 23px;
+  font-family: tahoma;
+  border-radius: 12px;
+}
