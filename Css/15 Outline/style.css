@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+div{
+  background-color: rgb(0, 140, 140);
+  width: 200px;
+  height: 400px;
+  border: 40px solid white;
+  padding: 50px;
+  margin: 20px;
+  cursor: pointer;
+  margin: 100px auto;
+  text-align: center;
+  font-size: 20px;
+  outline-style: ridge;
+  outline-color:black;
+  outline-width: 20px;
+
+  
+}
+p{
+  font-size: small;
+  text-align: left;
+}
