@@ -1,0 +1,65 @@
+#grad{
+  height: 100vh;
+  background-image: linear-gradient(to top,blue,purple,red);
+}
+div.box{
+  border-radius: 12px;
+  width: 1400px;
+  height: 700px;
+  margin: 100px auto;
+  background-color:rgba(0, 0, 0, 0.449);
+  margin-top: 50px;
+}
+h1.one{
+  text-align: center;
+  color: blue;
+  text-shadow: 2px 2px 14px white;
+}
+p.two{
+  color: aliceblue;
+  text-align: justify;
+  margin-left: 50px;
+  margin-right: 50px;
+  font-size: 14px;
+  line-height: 2;
+  text-indent: 15px;
+}
+span{
+  text-decoration: underline blue;
+  text-decoration-thickness: 2px;
+}
+hr{
+  width: 1300px;
+  display: block;
+  border-width: 2px;
+  border-style: solid;
+  border-color: white;
+  margin-top: 42px;
+}
+h1.three{
+  text-align: center;
+  color: black;
+  text-shadow: 2px 2px 12px red;
+  font-weight: bold;
+}
+p.four{
+  color: yellow;
+  text-align: justify;
+  margin-left: 50px;
+  margin-right: 50px;
+  font-size: 16px;
+  line-height: 2;
+  text-indent: 15px;
+}
+span.five{
+  text-decoration: underline red;
+  text-decoration-style: wavy;
+}
+hr.six{
+  width: 1300px;
+  display: block;
+  border-width: 3px;
+  border-style: solid;
+  border-color: black;
+  margin-top: 42px;
+}
