@@ -1,0 +1,26 @@
+#one{
+  border: 1px solid white;
+  padding: 10px;
+  box-shadow: 1px 2px 5px 2px gray;
+  width: 500px;
+  margin: 100px auto;
+}
+h1.fa{
+  text-align: center;
+}
+p.candy{
+  text-align: center;
+}
+#two{
+  border: 1px solid white;
+  padding: 10px;
+  box-shadow: 2px 3px 18px gray inset;
+  width: 500px;
+  margin: 100px auto;
+}
+h1.ta{
+  text-align: center;
+}
+p.cat{
+  text-align: center;
+}

@@ -1,0 +1,16 @@
+#background{
+  background-color: lightskyblue;
+}
+#box1{
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 6px 10px;
+  width: 300px;
+}
+#box2{
+  border: 1px solid;
+  padding: 12px;
+  box-shadow: 6px 10px pink;
+  margin-top: 20px;
+  width: 300px;
+}
