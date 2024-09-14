@@ -1,0 +1,26 @@
+div.one{
+  border: 3px solid blue;
+  padding: 40px;
+  box-shadow:rgb(255, 255, 255) 10px -10px 0px -3px, rgb(31, 193, 27) 10px -10px, rgb(255, 255, 255) 20px -20px 0px -3px, rgb(255, 217, 19) 20px -20px, rgb(255, 255, 255) 30px -30px 0px -3px, rgb(255, 156, 85) 30px -30px, rgb(255, 255, 255) 40px -40px 0px -3px, rgb(255, 85, 85) 40px -40px;
+  width: 400px;
+  margin: 100px auto;
+}
+h1.two{
+  text-align: center;
+}
+p.three{
+  text-align: center;
+}
+#four{
+  border: 1px solid white;
+  padding: 40px;
+  box-shadow: 1px 2px 5px 2px gray;
+  width: 400px;
+  margin: 100px auto;
+}
+h1.five{
+  text-align: center;
+}
+p.six{
+  text-align: center;
+}
