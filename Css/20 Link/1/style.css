@@ -1,0 +1,16 @@
+a{
+  text-decoration: none;
+  background-color: rgb(136, 202, 196);
+  padding: 10px 30px;
+  border: 3px solid gray;
+  border-radius: 10px;
+  color: white;
+  display: inline-block;
+  margin: 5px auto;
+}
+a:hover{
+  background-color: cadetblue;
+}
+a:active{
+  background-color: rgb(97, 85, 68);
+}
