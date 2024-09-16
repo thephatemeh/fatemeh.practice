@@ -1,0 +1,67 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+@font-face{
+  font-family: Playwrite Cuba;
+  src: url(Font/Playwrite_CU/PlaywriteCU-VariableFont_wght.ttf);
+}
+div.background{
+  background: url(Picture.jfif);
+  background-size: cover;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+div.box{
+  border: 1px solid rgba(255, 255, 255, 0);
+  width: 300px;
+  height: 400px;
+  margin: 100px auto;
+  border-radius: 15px;
+  backdrop-filter: blur(8px);
+}
+img{
+  border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
+}
+h1{
+  text-align: center;
+  font-family: Playwrite Cuba;
+  font-size: 25px;
+}
+p{
+  text-align: center;
+  font-family: Raleway;
+  font-weight: lighter;
+}
+div.icon{
+  text-align: center;
+  margin-top: 10px;
+}
+a{
+  display: inline-block;
+  text-decoration: none;
+}
+a:hover{
+  color: gray;
+}
+a.gray{
+  background-color: black;
+  color: white;
+  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  margin-top: 41px;
+  font-family: Raleway;
+  font-weight: lighter;
+  text-align: center;
+  padding: 18px;
+  text-decoration: none;
+  width: 265px;
+  font-size: 32px;
+}
+a.gray:hover{
+  background-color: gray;
+  color: white;
+}
