@@ -6,6 +6,7 @@ div.box{
   width: 300px;
   height: 400px;
   margin: 100px auto;
+  transition: margin 5s;
 }
 h1.heading{
   text-align: center;
@@ -21,6 +22,7 @@ p.paragraph{
 }
 div.box:hover{
   background-image: linear-gradient(rgb(82, 82, 244),rgb(193, 56, 193));
+  margin-top: 50px;
 }
 h2.gra{
   background-color: white;
