@@ -1,0 +1,41 @@
+#backcolor{
+  background-image: linear-gradient(to top,rgb(176, 133, 252),black);
+  height: 98vh;
+}
+h1{
+  color: white;
+  text-align: center;
+}
+h4{
+  color: white;
+  text-align: center;
+  font-weight: lighter;
+}
+div.box{
+  background-image: url(SteveJobs.jpg);
+  background-position: 370px;
+  width: 1400px;
+  height: 300px;
+  margin: auto;
+}
+h3.heading{
+  text-align: center;
+  font-weight: lighter;
+  color: rgb(0, 157, 255);
+  font-size: 50px;
+  margin: auto;
+  padding: 80px;
+}
+h1.heading-one{
+  color: white;
+  font-size: 50px;
+  margin-right: 280px;
+}
+p.paragraph{
+  color: white;
+  text-align: justify;
+  width: 400px;
+  margin: auto;
+  margin-left: 500px;
+  font-size: 19.5px;
+}
