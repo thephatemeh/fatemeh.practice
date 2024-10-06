@@ -1,0 +1,43 @@
+#backcolor{
+  background-image: linear-gradient(to top,rgb(0, 0, 0),rgb(61, 88, 116));
+  height: 96vh;
+}
+table,th,td{
+  border: 10px solid rgba(2, 2, 2, 0);
+  text-align: center;
+  margin-left: 200px;
+  height: 70px;
+  border-radius: 7px;
+  padding: 10px;
+  border-spacing: 8px 8px;
+  border-collapse: separate;
+}
+table {
+  width: 65%;
+}
+td {
+  font-family: tahoma; 
+  color: black;
+  font-weight: bolder;
+  background-image: linear-gradient(to top,rgb(36, 184, 195),rgb(255, 255, 255));
+  border: 2px solid black;
+  position: relative;
+}
+td:hover{
+  border-radius: 50%;
+  height: 68px;
+  position: relative;
+  background-image: linear-gradient(rgb(51, 77, 108),rgb(63, 86, 104));
+  color: white;
+}
+h1{
+  color: white;
+  text-align: center;
+  margin-right: 190px;
+}
+p{
+  color: white;
+  text-align: center;
+  margin-right: 190px;
+  font-style: italic;
+}
