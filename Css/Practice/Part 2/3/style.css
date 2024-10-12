@@ -1,0 +1,56 @@
+#backcolor{
+  background-image: linear-gradient(to right,rgb(212, 218, 233),rgb(54, 68, 84));
+}
+@font-face{
+  font-family: Playwrite Cuba;
+  src: url(Playwrite_CU/PlaywriteCU-VariableFont_wght.ttf);
+}
+div.box{
+  width: 350px;
+  height: 400px;
+  border: 1px solid white;
+  margin: auto;
+  margin-top: 30px;
+}
+div.icon{
+  text-align: center;
+  margin-top: 30px;
+  font-size: 25px;
+}
+h2{
+  text-align: center;
+  color: aqua;
+  margin-top: 10px;
+  font-family: Playwrite Cuba;
+  font-size: 40px;
+}
+div.box:hover{
+  background-image: linear-gradient(to right,rgb(86, 200, 162),rgb(25, 96, 183));
+}
+h1{
+  color: rgb(58, 31, 107);
+  text-align: center;
+  font-family: Playwrite Cuba;
+  font-size: 0px;
+  transition: margin 2s;
+}
+p{
+  text-align: justify;
+  margin-right: 20px;
+  margin-left: 20px;
+  font-family: tahoma;
+  color: white;
+  font-size: 0px;
+  transition: margin 2s;
+}
+div.icon:hover{
+  opacity: 0;
+}
+.box:hover p{
+  margin-top: 20px;
+  font-size: 20px;
+}
+.box:hover h1{
+  font-size: 50px;
+  margin-top: 10px;
+}
