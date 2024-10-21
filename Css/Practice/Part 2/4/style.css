@@ -8,42 +8,45 @@
 }
 div.box{
   border: 1px solid white;
-  width: 290px;
+  width: 288px;
   height: 220px;
   margin: auto;
   margin-top: 100px;
-  background-image: linear-gradient(to right,rgba(255, 255, 255, 0.112),rgba(147, 144, 128, 0.658));
+  margin-bottom: 0;
+  background-image: linear-gradient(to right,rgba(255, 255, 255, 0.115),rgba(136, 133, 117, 0.658));
 }
 div.icon{
   text-align: center;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 h1{
-  color: rgb(160, 156, 131);
+  color: rgb(156, 142, 124);
   font-family: monospace;
   font-weight: lighter;
+  font-size: 32px;
 }
 div.content{
-  width: 290px;
-  height: 220px;
-  border: 1px solid white;
   background-color: white;
-  margin: auto;
-  margin-bottom: 100px;
+  border: 1px solid white;
+  width: 288px;
+  height: 220px;
+  margin-bottom: 120px;
+  position: absolute;
+  margin-top: 0px;
   opacity: 0;
-  transition: margin 3s;
+  transition: margin-top 5s, opocity 5s;
 }
 p{
   text-align: justify;
-  margin-right: 25px;
-  margin-left: 25px;
-  margin-top: 20px;
+  font-size: 13px;
+  font-weight: bold;
+  margin-right: 9px;
+  margin-left: 9px;
   font-family: Playwrite Cuba;
-  font-size: 11.5px;
+  font-size: 13px;
   font-weight: bold;
 }
-div.box:hover .content{
-  opacity: 100;
-  margin-top: 20px;
-  
+.box:hover .content{
+  opacity: 1;
+  margin-top: -14.5px;
 }
