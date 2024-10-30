@@ -1,0 +1,40 @@
+#background{
+  background-image: url(galaxy-nature.jpg);
+  background-size: cover;
+}
+div.box{
+  width: 440px;
+  height: 440px;
+  border-radius: 50%;
+  background-color: rgba(0, 0, 0, 0.56);
+  box-shadow: 0px 0px 20px 4px white;
+  margin: auto;
+  margin-top: 167px;
+  transition: margin-top 3s;
+  opacity: 0;
+}
+h1{
+  position: relative;
+  top: 30px;
+  text-align: center;
+  color: rgb(177, 175, 175);
+  font-size: 40px;
+  font-family: Dancing Script;
+  font-weight: lighter;
+}
+p{
+  position: relative;
+  top: 30px;
+  color: rgba(255, 255, 255, 0.892);
+  font-size: 11px;
+  font-family: tahoma;
+  font-weight: lighter;
+  margin-left: 9px;
+  margin-right: 9px;
+  font-style: italic;
+  text-align: center;
+}
+.box:hover{
+  opacity: 1;
+  margin-bottom: 8px;
+}
