@@ -1,0 +1,42 @@
+#backcolor{
+  background-color: black;
+}
+div.one{
+  border: 1px solid rgb(0, 0, 0);
+  width: 350px;
+  height: 450px;
+  background-image: url(luffy.jpg);
+  background-position: center;
+  background-size: cover;
+  box-shadow: 2px 2px 5px red;
+  margin: 30px;
+  margin-left: 150px;
+  display: inline-block;
+}
+h1{
+  text-align: center;
+  color: white;
+  margin: 100px auto;
+}
+div.two{
+  border: 1px solid rgb(0, 0, 0);
+  width: 350px;
+  height: 450px;
+  background-image: url(Roronoa\ Zoro.jpg);
+  background-position: center;
+  background-size: cover;
+  box-shadow: 2px 2px 5px green;
+  margin: 30px;
+  display: inline-block;
+}
+div.three{
+  border: 1px solid rgb(0, 0, 0);
+  width: 350px;
+  height: 450px;
+  background-image: url(sanji.jpg);
+  background-position: center;
+  background-size: cover;
+  box-shadow: 2px 2px 5px gold;
+  margin: 30px;
+  display: inline-block;
+}
