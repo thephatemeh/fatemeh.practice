@@ -1,0 +1,102 @@
+#background-color{
+  background-color: black;
+}
+h1{
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 1px;
+}
+.div-1{
+  width: 300px;
+  height: 320px;
+  margin-left: 120px;
+}
+.h-one{
+  font-size: 35px;
+  margin-top: -8px;
+}
+.p-one{
+  color: rgb(214, 213, 213);
+  font-weight: lighter 200;
+  text-align: justify;
+  font-family: Quicksand;
+  font-size: 18px;
+  margin: 5px;
+  margin-top: -14px;
+  text-align-last: center;
+}
+.div-2{
+  width: 400px;
+  height: 400px;
+  border: 2px solid white;
+  background-image: linear-gradient(to right, rgb(198, 198, 198),rgb(55, 55, 55));
+  border-radius: 50%;
+  background-color: rgba(0, 0, 0, 0.56);
+  box-shadow: 0px 0px 25px 15px rgb(185, 9, 243);
+  margin: auto;
+  margin-top: -300px;
+}
+.div-3{
+  width: 300px;
+  height: 320px;
+  margin-left: 120px;
+  margin-top: -100px;
+}
+.h-two{
+  font-size: 28px;
+  margin-top: -32px;
+}
+.p-two{
+  color: rgb(214, 213, 213);
+  font-weight: lighter 200;
+  text-align: justify;
+  font-family: Quicksand;
+  font-size: 16px;
+  margin: 5px;
+  margin-top: -8px;
+  text-align-last: center;
+}
+.div-4{
+  width: 300px;
+  height: 320px;
+  margin: auto;
+  margin-top: -648px;
+  margin-right: 100px;
+}
+.h-three{
+  font-size: 25px;
+  margin-top: -2px;
+}
+.p-three{
+  color: rgb(214, 213, 213);
+  font-weight: lighter 200;
+  text-align: justify;
+  font-family: Quicksand;
+  font-size: 17px;
+  margin: 5px;
+  margin-top: -8px;
+  text-align-last: center;
+}
+.div-5{
+  width: 300px;
+  height: 320px;
+  margin: auto;
+  margin-right: 100px;
+  margin-top: 20px;
+}
+.h-four{
+  font-size: 25px;
+  margin-top: 2px;
+}
+.p-four{
+  color: rgb(214, 213, 213);
+  font-weight: lighter 200;
+  text-align: justify;
+  font-family: Quicksand;
+  font-size: 19px;
+  margin: 5px;
+  margin-top: -8px;
+  text-align-last: center;
+}
