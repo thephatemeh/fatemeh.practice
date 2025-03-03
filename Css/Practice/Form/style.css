@@ -1,0 +1,179 @@
+#background-color{
+  background-color: rgb(66, 66, 66);
+}
+.box{
+  position: relative;
+  background-color: rgb(208, 206, 201);
+  width: 900px;
+  height: 760px;
+  border-radius: 50px;
+  margin: auto;
+  margin-top: 15px;
+}
+.label-1 {
+  position: absolute;
+  font-size: 25px;
+  left: 100px;
+  top: 20px;
+}
+.input-1{
+  position: absolute;
+  background-color: rgb(208, 206, 201);
+  width: 250px;
+  left: 100px;
+  top: 60px;
+  height: 50px;
+  border: 2px solid rgb(134, 111, 86);
+  box-shadow: none;
+  border-radius: 50px;
+}
+input::placeholder{
+  position: absolute;
+  left: 20px;
+  font-size: 12px;
+  top: 20px;
+}
+.input-2{
+  position: absolute;
+  background-color: rgb(208, 206, 201);
+  width: 250px;
+  left: 480px;
+  top: 60px;
+  height: 50px;
+  border: 2px solid rgb(134, 111, 86);
+  box-shadow: none;
+  border-radius: 50px;
+}
+.label-2 {
+  position: absolute;
+  font-size: 25px;
+  left: 485px;
+  top: 20px;
+}
+.input-3{
+  position: absolute;
+  background-color: rgb(208, 206, 201);
+  width: 330px;
+  left: 100px;
+  top: 178px;
+  height: 50px;
+  border: 2px solid rgb(134, 111, 86);
+  box-shadow: none;
+  border-radius: 50px;
+}
+.label-3 {
+  position: absolute;
+  font-size: 25px;
+  left: 100px;
+  top: 140px;
+}
+.input-4{
+  position: absolute;
+  background-color: rgb(208, 206, 201);
+  width: 250px;
+  left: 480px;
+  top: 176px;
+  height: 50px;
+  border: 2px solid rgb(134, 111, 86);
+  box-shadow: none;
+  border-radius: 50px;
+}
+.label-4 {
+  position: absolute;
+  font-size: 25px;
+  left: 485px;
+  top: 140px;
+}
+.input-5{
+  position: absolute;
+  background-color: rgb(208, 206, 201);
+  width: 630px;
+  height: 140px;
+  left: 100px;
+  top: 290px;
+  border: 2px solid rgb(134, 111, 86);
+  border-radius: 40px;
+}
+.label-5 {
+  position: absolute;
+  font-size: 25px;
+  left: 100px;
+  top: 252px;
+}
+.f-one{
+  position: absolute;
+  top: 460px;
+  left: 120px;
+  width: 580px;
+  border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
+  border-color: rgb(119, 161, 215);
+}
+.lg{
+  text-align: center;
+  color: rgb(94, 119, 127);
+}
+.button-1{
+  position: absolute;
+  border: 1px solid rgb(139, 133, 125);
+  background-color: rgb(94, 88, 81);
+  color: white;
+  width: 250px;
+  height: 70px;
+  border-radius: 50px;
+  left: 120px;
+  top: 500px;
+  cursor: pointer;
+}
+h1{
+  text-align: center;
+  font-size: 28px;
+  margin-right: 7px;
+  font-weight: lighter;
+}
+.button-2{
+  position: absolute;
+  border: 1px solid rgb(139, 133, 125);
+  background-color: rgb(94, 88, 81);
+  color: white;
+  width: 250px;
+  height: 70px;
+  border-radius: 50px;
+  left: 475px;
+  top: 500px;
+  cursor: pointer;
+}
+.input-6{
+  position: absolute;
+  appearance: none;
+  -webkit-appearance: none;
+  top: 600px;
+  left: 100px;
+  width: 20px;
+  height: 20px;
+  border: 2px solid rgb(176, 131, 105);
+  border-radius: 50%;
+  cursor: pointer;
+}
+.label-6{
+  position: absolute;
+  font-size: 17px;
+  left: 130px;
+  top: 603px;
+}
+span{
+  text-decoration: underline;
+}
+.button-3{
+  position: absolute;
+  border: 1px solid rgb(139, 133, 125);
+  background-color: rgb(94, 88, 81);
+  color: white;
+  width: 250px;
+  height: 70px;
+  border-radius: 50px;
+  left: 290px;
+  top: 665px;
+  cursor: pointer;
+}
