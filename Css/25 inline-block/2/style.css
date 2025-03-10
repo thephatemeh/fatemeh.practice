@@ -1,8 +1,8 @@
 #background{
-  background-image: linear-gradient(to bottom,rgb(41, 188, 188),rgb(250, 159, 174));
-  height: 100vh;
+  background-image: linear-gradient(to bottom,rgb(3, 201, 201),rgb(225, 72, 97));
+  height: 125vh;
 }
-.box{
+.main-box-1{
   border: 1px solid white;
   width: 1400px;
   height: 300px;
@@ -11,26 +11,101 @@
 .box1, .box2, .box3{
   background-image: url(sea.jpg);
   background-attachment: fixed;
-}
-.box1{
-  border: 1px solid white;
-  width: 1100px;
-  height: 100px;
-  background-size: 1200px;
+  background-size: cover;
   background-repeat: no-repeat;
 }
+.box1{
+  width: 1100px;
+  height: 100px;
+  background-position: center left;
+}
 .box2{
-  border: 1px solid white;
   width: 700px;
   height: 50px;
   margin: 5px;
   margin-left: 300px;
-  background-size: 1150px;
-  background-position: center left;
+  background-position: center center;
 }
 .box3{
-  border: 1px solid white;
   width: 1100px;
   height: 130px;
   margin-left: 100px;
+  background-position: bottom center;
+}
+.main-box-2{
+  border: 1px solid white;
+  width: 1400px;
+  height: 310px;
+  margin: auto;
+  margin-top: 20px;
+}
+.box4{
+  border: 2px solid white;
+  width: 440px;
+  height: 150px;
+  margin-top: 152px;
+  margin-left: 3px;
+}
+.box5{
+  border: 2px solid white;
+  width: 599px;
+  height: 290px;
+  margin-top: -294px;
+  margin-left: 451px;
+}
+.box6{
+  border: 2px solid white;
+  width: 335px;
+  height: 252px;
+  margin-top: -257px;
+  margin-left: 1058px;
+}
+.box4, .box5, .box6{
+  background-image: url(boat.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.main-box-3{
+  border: 1px solid white;
+  width: 1400px;
+  height: 310px;
+  margin: auto;
+  margin-top: 20px;
+}
+.box7{
+  position: relative;
+  border: 1px solid white;
+  background-image: url(cat.jpg);
+  background-size: cover;
+  background-position: center center;
+  width: 300px;
+  height: 280px;
+  border-radius: 10px;
+  margin: 14px auto;
+}
+h1{
+  position: absolute;
+  text-align: center;
+  color: white;
+  left: 100px;
+  font-size: 60px;
+}
+h2{
+  position: absolute;
+  text-align: center;
+  color: rgb(79, 55, 48);
+  top: -10px;
+  left: 85px;
+  font-size: 60px;
+  display: none;
+}
+.box7:hover{
+  background-image: url(dog.jpg);
+}
+.box7:hover h1{
+  display: none;
+}
+.box7:hover h2{
+  display: block;
 }
