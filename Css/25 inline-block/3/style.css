@@ -1,0 +1,32 @@
+#bgcolor{
+  background-image: linear-gradient(to top, rgb(2, 95, 149) ,rgb(3, 211, 211));
+  height: 90vh;
+}
+.navbar{
+  border: 1px solid white;
+  background-color: white;
+  width: 1300px;
+  height: 50px;
+  margin: auto;
+  margin-top: 70px;
+}
+p{
+  display: inline-block;
+  margin: auto 50px;
+  margin-top: 15px;
+}
+.box{
+  border: 2px solid white;
+  width: 1300px;
+  height: 370px;
+  margin: auto;
+  margin-top: 50px;
+}
+h1{
+  text-align: center;
+  color: white;
+}
+.pbox{
+  text-align: justify;
+  font-size: 17px;
+}
