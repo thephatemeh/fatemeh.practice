@@ -1,0 +1,100 @@
+#bgcolor{
+  background-image: linear-gradient(to top,rgb(63, 99, 97),rgb(165, 188, 187));
+  height: 115vh;
+}
+.navbar{
+  position: sticky;
+  top: 0;
+  background-color: rgba(240, 248, 255, 0);
+  color: rgb(45, 60, 47);
+  width: 600px;
+  height: 80px;
+  margin-left: 910px;
+}
+p{
+  display: inline-block;
+  margin: auto 30px;
+  margin-top: 25px;
+  margin-right: 50px;
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+.logo{
+  position: fixed;
+  top: 10px;
+  left: 10px;
+}
+.h-one{
+  font-size: 70px;
+  margin-left: 480px;
+  margin-bottom: 15px;
+  font-size: 110px;
+  letter-spacing: 8px;
+  font-family: Cabin;
+  color: rgb(58, 55, 48);
+}
+.h-two{
+  font-family: sans-serif;
+  font-weight: lighter;
+  margin-top: -30px;
+  margin-left: 555px;
+  font-size: 18px;
+  color: rgba(65, 81, 74, 0.712);
+}
+.p-two{
+  color: rgb(49, 44, 38);
+  margin-top: 370px;
+  margin-left: 670px;
+}
+span{
+  font-weight: bold;
+}
+.button-1{
+  position: relative;
+  top: 70px;
+  left: 495px;
+  border: 3px solid rgb(27, 55, 63);
+  width: 247px;
+  height: 60px;
+  border-radius: 50px;
+}
+.h-three{
+  color: rgb(37, 53, 63);
+  font-size: 27px;
+  font-family: sans-serif;
+  font-weight: lighter;
+  text-align: center;
+  margin-right: -1px;
+  margin-top: 13px;
+}
+.button-1:hover{
+  background-color: rgb(27, 55, 63);
+}
+.h-three:hover{
+  color: white;
+}
+.button-2{
+  position: absolute;
+  right: 460px;
+  bottom: -47px;
+  border: 3px solid rgb(27, 55, 63);
+  width: 247px;
+  height: 60px;
+  border-radius: 50px;
+}
+.h-four{
+  color: rgb(37, 53, 63);
+  font-size: 27px;
+  font-family: sans-serif;
+  font-weight: lighter;
+  text-align: center;
+  margin-right: -1px;
+  margin-top: 13px;
+}
+.button-2:hover{
+  background-color: rgb(27, 55, 63);
+}
+.h-four:hover{
+  color: white;
+}
