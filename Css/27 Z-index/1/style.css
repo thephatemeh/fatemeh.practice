@@ -1,0 +1,29 @@
+#bgcolor{
+  background-image: linear-gradient(to top,rgb(150, 133, 154),white);
+  height: 98vh;
+}
+.box1{
+  position: absolute;
+  width: 250px;
+  height: 250px;
+  background-color: rgb(78, 35, 62);
+  top: 140px;
+  left: 750px;
+}
+.box2{
+  position: absolute;
+  width: 250px;
+  height: 250px;
+  background-color: rgb(172, 105, 140);
+  top: 240px;
+  left: 650px;
+  z-index: 1;
+}
+.box3{
+  position: absolute;
+  width: 250px;
+  height: 250px;
+  background-color: rgb(93, 70, 93);
+  top: 340px;
+  left: 550px;
+}
