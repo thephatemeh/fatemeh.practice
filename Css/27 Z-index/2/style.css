@@ -1,0 +1,49 @@
+#background{
+  background-image: url(ubisoft.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.back-filter{
+  position: absolute;
+  backdrop-filter: blur(4px);
+  width: 1535px;
+  height: 790px;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+.box1{
+  position: absolute;
+  background-image: url(assassin-screed.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 300px;
+  height: 300px;
+  top: 380px;
+  left: 100px;
+  border-radius: 35px;
+}
+.box2{
+  position: absolute;
+  background-image: url(ubisoft.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 780px;
+  height: 460px;
+  top: 100px;
+  left: 370px;
+  border-radius: 35px;
+}
+.box3{
+  position: absolute;
+  background-image: url(for-honor.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 300px;
+  height: 300px;
+  top: 380px;
+  left: 1100px;
+  border-radius: 35px;
+  z-index: -1;
+}
