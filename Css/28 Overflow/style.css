@@ -1,0 +1,51 @@
+body{
+  background-color: rgb(143, 132, 160);
+}
+h1, p{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+  color: white;
+}
+.box1{
+  border: 1px solid black;
+  width: 200px;
+  height: 80px;
+  background-color: rgb(192, 171, 255);
+  overflow: visible;
+  margin-left: 10px;
+}
+.h-two{
+  margin-top: -180px;
+  margin-left: 850px;
+}
+.p-two, .p-three{
+  margin-left: 850px;
+}
+.box2{
+  border: 1px solid black;
+  width: 200px;
+  height: 80px;
+  background-color: rgb(192, 171, 255);
+  overflow: hidden;
+  margin-left: 850px;
+}
+.box3{
+  border: 1px solid black;
+  width: 200px;
+  height: 80px;
+  background-color: rgb(192, 171, 255);
+  overflow: scroll;
+  margin-left: 10px;
+}
+.box4{
+  border: 1px solid black;
+  width: 200px;
+  height: 80px;
+  background-color: rgb(192, 171, 255);
+  overflow: auto;
+  margin-left: 10px;
+}
+.h-one, .p-one, .h-three, .p-four, .h-four, .p-five{
+  margin-left: 10px;
+}
