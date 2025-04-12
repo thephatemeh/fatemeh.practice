@@ -1,0 +1,21 @@
+div{
+  border: 2px solid black;
+  width: 1200px;
+  margin: auto;
+  margin-top: 80px;
+  overflow: auto;
+}
+.div1{
+  background-color: blanchedalmond;
+}
+.img-1{
+  float: right;
+  margin: 5px;
+}
+.div2{
+  background-color: cyan;
+}
+.img-2{
+  float: left;
+  margin: 5px;
+}
